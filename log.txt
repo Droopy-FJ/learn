@@ -1,0 +1,18 @@
+// time:2023/12/10
+//event:creat github
+/*
+step1:Visit:https://github.com
+step2:Creat account with email:D151363551131@outlook.com
+step3:Creat Reposition with name "learn"
+step4:install git(gitbash、gitGUI、TortoiseGit)
+step5:config git:	git config --global user.name "FJ.W"
+	 	git config --gloabl email "D151363551131@outlook.com"
+step5:config key(ssh):$ ssh-keygen -t rsa -C “your@email.com" //creat key
+		cat ~/.ssh/id_rsa.pub			// browse public key 
+step6:github ->setting-ssh: copy public key
+step7:copy Resposition ssh
+step8:filepath open gitbash
+step9:git clone with ssh
+step:git add.   git commit   git push
+
+*/
