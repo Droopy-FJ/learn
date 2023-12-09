@@ -14,5 +14,4 @@ step7:copy Resposition ssh
 step8:filepath open gitbash
 step9:git clone with ssh
 step:git add.   git commit   git push
-
 */
